@@ -1,8 +1,13 @@
-# React + Vite
+<h1 style="text-align: center; font-size: 32px;"><img style="width: 300" src="./src/assets/logo.png"/></h1/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About:
+<p style="text-align: center;">Digital work schedule application developed with React. It allows you to manage work schedules efficiently, safely and flexibly.</p>
 
-Currently, two official plugins are available:
+## how to use:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<strong>1 - Git Clone: </strong>
+<p>On terminal copy and paste -> git clone https://github.com/itsV1tor/Schedule_GSystem.git</p>
+<strong>2 - Complete package: </strong>
+<p>On terminal set -> npm i</p>
+<strong>3 - Optional: </strong>
+<p>It'll be cooler if it looks like you &#128513;</p>
