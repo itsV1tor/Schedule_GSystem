@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-size: 32px;"><img style="width: 300" src="./src/assets/logo.png"/></h1/>
+<p align="center"><a><img style="width: 300" src="./src/assets/logo.png"/></a></p>
 
 ## About:
 <p style="text-align: center;">Digital work schedule application developed with React. It allows you to manage work schedules efficiently, safely and flexibly.</p>
