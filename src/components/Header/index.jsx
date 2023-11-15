@@ -4,9 +4,7 @@ import { Container } from './styles';
 export function Header (){
     return (
         <Container>
-            <header>
-                <img src={ logoImg } alt="Logo G-System" />
-            </header>
+            <img src={ logoImg } alt="Logo G-System" />
         </Container>
     )
 }
